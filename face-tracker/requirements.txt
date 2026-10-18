@@ -1,0 +1,7 @@
+ultralytics>=8.2
+insightface>=0.7.3
+onnxruntime>=1.17      # GPU: use onnxruntime-gpu
+opencv-python>=4.9
+numpy>=1.26,<2
+lap>=0.4.0             # required by ByteTrack
+flask>=3.0             # optional dashboard

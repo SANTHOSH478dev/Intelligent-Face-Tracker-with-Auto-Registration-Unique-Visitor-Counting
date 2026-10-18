@@ -1,0 +1,55 @@
+__pycache__/
+*.pt
+data/*.mp4
+data/visitors.db*
+
+venv/
+
+*.mp4
+*.avi
+*.mov
+data/Video Datasets/
+venv/
+.venv/
+*.pt
+
+*.mp4
+*.avi
+*.mov
+data/Video Datasets/
+
+# Ignore all video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mpeg
+*.mpg
+*.wmv
+*.flv
+*.webm
+*.m4v
+data/Video Datasets/
+
+# Ignore model and environment files
+*.pt
+venv/
+.venv/
+
+# Ignore all video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mpeg
+*.mpg
+*.wmv
+*.flv
+*.webm
+*.m4v
+
+# Allow only sample.mp4
+!sample.mp4
+
+# Ignore dataset folder
+data/Video Datasets/

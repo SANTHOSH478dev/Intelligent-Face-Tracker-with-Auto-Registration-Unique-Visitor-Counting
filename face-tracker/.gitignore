@@ -1,0 +1,4 @@
+__pycache__/
+*.pt
+data/*.mp4
+data/visitors.db*
